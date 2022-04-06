@@ -1,2 +1,1 @@
-# tgbot-template
-Telegram Bot Template
+# Telegram Bot Template
